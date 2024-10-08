@@ -1,0 +1,1 @@
+# vue-shadcn-tanstackquery-ckeditor5

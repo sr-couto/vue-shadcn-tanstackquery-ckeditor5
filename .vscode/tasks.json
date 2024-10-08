@@ -1,0 +1,16 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "stackblitz",
+			"problemMatcher": [],
+			"label": "npm: stackblitz",
+			"detail": "npm install && npm run build && npm run appblitz",
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
+		}
+	]
+}
